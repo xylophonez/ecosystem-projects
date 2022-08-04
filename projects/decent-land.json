@@ -1,0 +1,23 @@
+{
+  "name": "decent.land",
+  "slug": "decent-land",
+  "tags": [
+    "infrastructure",
+    "api",
+    "culture",
+    "governance"
+  ],
+  "status": "",
+  "highlight": "Social infrastructure for web3 - protocols to power identity, token-gating, and DAOs",
+  "logo": "/img/decent-land.png",
+  "website": "https://decent.land",
+  "twitter": "https://twitter.com/decentdotland",
+  "telegram": "https://t.me/decentdotland",
+  "github": "https://github.com/decentldotland",
+  "discord": "https://discord.gg/decentland",
+  "summary": "decent.land is a suite of protocols for identity and social - ANS (Arweave Name Service), Ark, and the Public Square Protocol can be used as a stack or alone to add social graphs/metadata, identity, and token-gating functionality to dApps. Ark is a multichain identity linking protocol, integrated with Avalanche, and a key part of the decent.land stack. With Ark, it's possible for a user to link their Arweave identity to addresses on different chains and prove ownership of tokens / membership of DAOs to any dApp regardless of the chain the dApp was built on.",
+  "docs": "httos://docs.decent.land",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
